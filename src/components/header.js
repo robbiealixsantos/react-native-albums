@@ -22,7 +22,7 @@ const styles = {
 		shadowOffset: { width: 0, height: 2 },
 		shadowOpacity: 0.5,
 		elevation: 2,
-		postition: 'relative'
+		position: 'relative'
 	},
 	textStyle: {
 		fontSize: 20
